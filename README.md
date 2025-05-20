@@ -1,3 +1,7 @@
+# My copy of https://github.com/alfredodeza/synthetic-datasets...
+
+...from edX course [Open Source LLMOps](https://learning.edx.org/course/course-v1:AI+llmops5x+1T2024/home)...
+
 # Create Synthetic Data using Large Language Models
 
 Augment datasets using Large Language Models by generating synthetic data. This repository has simple examples you can use to generate Synthetic Data and persist it to disk as a CSV file.
