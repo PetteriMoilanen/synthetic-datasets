@@ -1,6 +1,14 @@
 # My copy of https://github.com/alfredodeza/synthetic-datasets...
 
 ...from edX course [Open Source LLMOps](https://learning.edx.org/course/course-v1:AI+llmops5x+1T2024/home)...
+(Below the original content)
+
+
+
+
+
+
+
 
 # Create Synthetic Data using Large Language Models
 
